@@ -23,7 +23,7 @@
                                           <PersistentState>
                                             <option name="values">
                                               <map>
-                                                <entry key="scalingPercent" value="78" />
+                                                <entry key="scalingPercent" value="80" />
                                               </map>
                                             </option>
                                           </PersistentState>
@@ -34,8 +34,8 @@
                                   <option name="values">
                                     <map>
                                       <entry key="backgroundAssetType" value="COLOR" />
-                                      <entry key="backgroundColor" value="1158a6" />
-                                      <entry key="foregroundImage" value="C:\Users\Sougata Ghosh\Desktop\RSI_c.png" />
+                                      <entry key="backgroundColor" value="000102" />
+                                      <entry key="foregroundImage" value="C:\Users\Sougata Ghosh\Desktop\toAttach.png" />
                                       <entry key="legacyIconShape" value="CIRCLE" />
                                     </map>
                                   </option>
